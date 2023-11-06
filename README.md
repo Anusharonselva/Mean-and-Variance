@@ -84,5 +84,3 @@ print("The Standard deviation of arrival from feederis %.3f"%SD)
 
 # Results :
 Thus the mean and variance of arrival of objects from the feeder using probability distribution is found successfully.
-The mean and variance of arrivals of objects from feeder using probability distribution are calculated.
-
